@@ -1,1 +1,1 @@
-# arbitrary-image-stylization-v1
+# Arbitrary-image-stylization-v1
