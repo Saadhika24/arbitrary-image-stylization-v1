@@ -35,6 +35,8 @@ Execute the script to generate stylized images.
 The model is pre-trained and available on TensorFlow Hub.
 
 It uses a deep neural network to apply style transfer efficiently.
+
+The original work for artistic style transfer with neural networks proposed a slow optimization algorithm that worked on any arbitrary painting. Subsequent research developed a method for fast artistic style transfer that operated in real time but was limited to one or a limited set of styles. This project, however, leverages the Arbitrary Image Stylization v1 model, which enables fast and flexible style transfer on any image with a wide range of styles.
 # References
 
 TensorFlow Hub: Arbitrary Image Stylization v1
